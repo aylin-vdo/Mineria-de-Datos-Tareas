@@ -3,4 +3,5 @@
 
 #### Dataset Utilizado:
 https://www.kaggle.com/datasets/mexwell/us-software-engineer-jobs
+#### IMG
 ![Imagen de Practica 2](T2_img.png)
