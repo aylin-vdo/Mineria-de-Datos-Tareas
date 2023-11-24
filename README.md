@@ -16,7 +16,12 @@ Se realizaron diversos análisis sobre datos de stock del mercado de tecnología
 7.	Generacion de Graficas de Dispersion
 8.	Clusters, Agrupación con K-Means
 9.	Intervalos de Confianza, Rectas de Regresion y Forecasting
-10.	Visualizacion Final de Datos, Heatmap/WordCloud
+10.	Visualizacion Final de Datos
 
-### Ejemplo de Gráfica
-![Imagen de Práctica 10](T2_img.png)
+### Ejemplos de Gráficas
+![Imagen de Práctica 4 (Lenovo)](precio_stocks_lenovo.png.png)
+
+
+![Imagen de Práctica 4](cant_promedio_por_empresa.png.png)
+
+![Imagen de Práctica 10](heatmap.png)

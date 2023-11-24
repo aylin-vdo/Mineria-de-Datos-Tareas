@@ -1,38 +1,39 @@
-### FIGURE
-figure.facecolor: white
-figure.dpi: 100
-figure.titlesize: 14
-figure.titleweight: bold
+# Dark theme for Matplotlib
 
-### LINES
-lines.linewidth: 1.5
-
-### PATCHES
-patch.facecolor: 0072B2
-
-### LEGEND
-legend.fontsize: 12
-
-### TICKS
+figure.facecolor: 2e3440
+axes.facecolor: 2e3440
+axes.edgecolor: FFFFFF
+axes.labelcolor: FFFFFF
+axes.axisbelow: True
+grid.color: FFFFFF
+grid.linestyle: -
+text.color: FFFFFF
+xtick.color: FFFFFF
+ytick.color: FFFFFF
+legend.facecolor: 2e3440
+legend.edgecolor: FFFFFF
+legend.labelcolor: FFFFFF
 xtick.direction: out
 ytick.direction: out
-
-### FONTS
-font.family: sans-serif
-font.sans-serif: Avenir, 'Avenir Next LT Pro', Arial, Helvetica, sans-serif
-font.weight: bold
+xtick.major.size: 6
+ytick.major.size: 6
+xtick.minor.size: 4
+ytick.minor.size: 4
 font.size: 12
-
-### AXES
-axes.grid: False
-axes.facecolor: white
-axes.linewidth: 1.0
-axes.titlesize: 12
-axes.titleweight: bold
-axes.labelsize: 12
-axes.labelweight: bold
-axes.spines.top: True
-axes.spines.right: True
-axes.prop_cycle: cycler(
-    'color', ['0072B2', '009E73', 'D55E00', 'CC79A7', 'F0E442', '56B4E9']
-)
+font.family: monospace
+font.monospace: Consolas, 'Courier New', monospace
+lines.linewidth: 2.5
+lines.markeredgewidth: 0.5
+patch.edgecolor: 2e3440
+patch.facecolor: 66c2a5
+patch.antialiased: True
+hatch.color: FFFFFF
+hatch.linewidth: 1.0
+hist.bins: 20
+image.cmap: viridis
+image.origin: upper
+image.interpolation: none
+image.resample: True
+contour.negative_linestyle: dashed
+scatter.marker: o
+agg.path.chunksize: 10000
