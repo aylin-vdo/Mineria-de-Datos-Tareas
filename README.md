@@ -21,8 +21,5 @@ Se realizaron diversos análisis sobre datos de stock del mercado de tecnología
 ### Ejemplos de Gráficas
 ![Imagen de Práctica 4 (Lenovo)](precio_stocks_lenovo.png)
 ![Imagen de Práctica 4 (Lenovo)](precio_stocks_xiaomi.png)
-
-
 ![Imagen de Práctica 4](cant_promedio_por_empresa.png)
 
-![Imagen de Práctica 10](heatmap.png)
