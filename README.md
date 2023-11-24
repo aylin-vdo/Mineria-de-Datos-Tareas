@@ -4,6 +4,10 @@
 ### Dataset Utilizado:
 https://www.kaggle.com/datasets/liqiang2022/china-techgiant-stock-data-in-hk-market-2022
 
+### Ejemplos de Gráficas
+![Imagen de Práctica 4 (Lenovo)](precio_stocks_lenovo.png)
+![Imagen de Práctica 4 (Lenovo)](precio_stocks_xiaomi.png)
+![Imagen de Práctica 4](cant_promedio_por_empresa.png)
 
 ### Análisis del Dataset:
 Se realizaron diversos análisis sobre datos de stock del mercado de tecnología en China, de acuerdo con la numeración de las prácticas:
@@ -18,8 +22,4 @@ Se realizaron diversos análisis sobre datos de stock del mercado de tecnología
 9.	Intervalos de Confianza, Rectas de Regresion y Forecasting
 10.	Visualizacion Final de Datos
 
-### Ejemplos de Gráficas
-![Imagen de Práctica 4 (Lenovo)](precio_stocks_lenovo.png)
-![Imagen de Práctica 4 (Lenovo)](precio_stocks_xiaomi.png)
-![Imagen de Práctica 4](cant_promedio_por_empresa.png)
 
